@@ -28,4 +28,9 @@ Anyone who are interested in adding more resources can either open an [issue](ht
 ### Biology
 ### Best Practices
 - [Clean Code](https://www.freecodecamp.org/news/clean-coding-for-beginners/amp/)
+### Typing
+- Learning platform: [typingclub](https://www.typingclub.com/)
+- Different platform for learning: [typing.academy](https://www.typing.academy/)
+- Measuring speed: [monkeytype](https://monkeytype.com/)
+- Multiplayer speedtest [typeracer](https://play.typeracer.com/)
 
